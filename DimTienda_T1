@@ -1,0 +1,7 @@
+TiendaID,NombreTienda,Zona,Gerente,M2_Superficie,Año_Apertura,Objetivo_Mensual
+1,"Tienda Pamplona Centro","Pamplona","Marta Ibáñez",450,2010,28000
+2,"Tienda Pamplona Norte","Pamplona","Pedro Zubieta",320,2012,22000
+3,"Tienda Tudela","Ribera","Ana Elizalde",280,2014,18000
+4,"Tienda Estella","Tierra Estella","Luis Iriarte",190,2016,14000
+5,"Tienda Barañain","Cuenca de Pamplona","Carmen Goñi",240,2018,16000
+6,"Tienda Burlada","Cuenca de Pamplona","Javier Lecumberri",210,2020,15000
