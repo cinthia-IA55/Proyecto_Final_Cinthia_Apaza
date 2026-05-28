@@ -1,0 +1,6 @@
+ProveedorID,NombreProveedor,Pais,Tipo,Contacto,Condiciones_Pago_Dias,Certificacion_Calidad
+1,"Agrícola Sur S.L.","España","Productor nacional","contacto@agricolasur.es",45,"IFS Food"
+2,"Industrias Lácteas Norte","España","Productor nacional","ventas@lacteosnorte.com",30,"ISO 22000"
+3,"Conservas Mediterráneo S.A.","España","Fabricante","info@conservasmed.es",60,"BRC Global"
+4,"Bebidas Levante","España","Distribuidor","pedidos@bebidaslevante.es",30,"ISO 9001"
+5,"Cárnicas Castilla","España","Productor nacional","cuentas@carnicascastilla.es",45,"IFS Food"
