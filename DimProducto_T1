@@ -1,0 +1,41 @@
+ProductoID,NombreProducto,Categoria,ProveedorID,Precio_Base,Coste_Unitario,Dias_Vida_Util
+1,"Aceite Oliva Virgen Extra 1L","Conservas",1,0.99,0.57,139
+2,"Aceite Girasol 1L","Lácteos y huevos",1,6.84,3.35,48
+3,"Tomate Triturado 800g","Cereales y pasta",3,2.86,1.21,49
+4,"Atún en Aceite pack 3","Bebidas",3,3.14,1.53,138
+5,"Leche entera 1L pack 6","Carnes procesadas",2,5.2,2.3,31
+6,"Queso tierno 400g","Frutas y verduras",2,1.29,0.73,59
+7,"Arroz redondo 1kg","Aceites y grasas",5,3.34,1.47,164
+8,"Espaguetis 500g","Conservas",5,5.1,2.85,42
+9,"Agua mineral 6x1.5L","Lácteos y huevos",4,7.63,3.35,40
+10,"Vino Tinto Reserva 75cl","Cereales y pasta",4,6.93,3.06,91
+11,"Jamón cocido lonchas","Bebidas",5,9.33,4.66,139
+12,"Chorizo extra 200g","Carnes procesadas",5,4.49,2.23,32
+13,"Yogur natural pack 8","Frutas y verduras",2,9.11,4.42,115
+14,"Mantequilla 250g","Aceites y grasas",2,9.01,3.81,28
+15,"Lentejas cocidas 400g","Conservas",3,6.07,2.91,104
+16,"Judías verdes natural","Lácteos y huevos",3,6.68,3.85,109
+17,"Mermelada fresa 400g","Cereales y pasta",4,6.61,3.55,122
+18,"Galletas María 800g","Bebidas",5,3.37,1.9,169
+19,"Cereales avena 500g","Carnes procesadas",5,5.87,3.01,127
+20,"Zumo naranja 1L","Frutas y verduras",4,9.2,5.1,161
+21,"Cola 2L","Aceites y grasas",5,5.73,3.13,33
+22,"Cerveza pack 6","Conservas",3,9.34,5.35,149
+23,"Caldo pollo brick 1L","Lácteos y huevos",5,3.97,2.04,59
+24,"Sopa fideos 250g","Cereales y pasta",1,1.54,0.78,128
+25,"Maíz dulce 3 latas","Bebidas",3,2.77,1.38,29
+26,"Tomate cherry 500g","Carnes procesadas",1,9.44,5.36,22
+27,"Bolsa ensalada mix","Frutas y verduras",5,7.45,3.4,123
+28,"Zanahorias 1kg","Aceites y grasas",1,6.68,3.59,50
+29,"Pechuga pavo lonchas","Conservas",5,5.07,2.39,34
+30,"Salchichas frescas 500g","Lácteos y huevos",2,8.54,4.24,130
+31,"Chorizo ibérico 100g","Cereales y pasta",5,7.39,3.85,94
+32,"Queso Manchego curado","Bebidas",2,1.4,0.62,75
+33,"Leche desnatada pack 6","Carnes procesadas",2,6.71,3.81,101
+34,"Aceite orujo 1L","Frutas y verduras",1,1.2,0.63,115
+35,"Vinagre de Módena","Aceites y grasas",3,0.78,0.37,128
+36,"Pasta penne 500g","Conservas",5,2.64,1.27,102
+37,"Arroz integral 1kg","Lácteos y huevos",1,8.12,4.6,139
+38,"Garbanzos cocidos 400g","Cereales y pasta",3,4.2,2.02,19
+39,"Colacao 800g","Bebidas",4,4.99,2.69,157
+40,"Crema cacao 400g","Carnes procesadas",4,7.79,3.98,144
